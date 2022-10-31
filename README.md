@@ -96,7 +96,7 @@
 1. [Отчет](https://github.com/GornakDanila/InternetTechnologyLR/blob/main/Отчет%20по%20ЛР3%20Горнак%20ИДМ-22-02.docx?raw=true)
 2. [Сценарий Cisco Packet Tracer](https://github.com/GornakDanila/InternetTechnologyLR/blob/main/Сценарий%203%20ЛР3%20Горнак%20ИДМ-22-02.pka?raw=true)
 
-## ✅ Экзаменационные билет №24
+## ✅ Экзаменационный билет №24
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №24](https://github.com/stankin/inet-2022/wiki/exam24)
