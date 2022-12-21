@@ -93,7 +93,7 @@
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
-1. [Отчет](https://github.com/GornakDanila/InternetTechnologyLR/blob/main/Отчет%20по%20ЛР3%20Горнак%20ИДМ-22-02.docx?raw=true)
+1. [Отчет](https://github.com/FABI667coder/InternetTechnologyLR/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D0%9B%D0%A03%20%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D0%BA%20%D0%98%D0%94%D0%9C-22-02.pdf)
 2. [Сценарий Cisco Packet Tracer](https://github.com/GornakDanila/InternetTechnologyLR/blob/main/Сценарий%203%20ЛР3%20Горнак%20ИДМ-22-02.pka?raw=true)
 
 ## ✅ Экзаменационный билет №24
