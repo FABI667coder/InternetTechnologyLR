@@ -99,4 +99,5 @@
 ## ✅ Экзаменационный билет №24
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №24](https://github.com/stankin/inet-2022/wiki/exam24)
+[Билет №24](https://github.com/stankin/inet-2022/wiki/exam24)
+[Индивидуальный реферат(добавлены некоторые критерии и отредактирована страница с рефератом)](https://github.com/stankin/inet-2022/wiki/exam24/_compare/ac8c7756c4ccd6aa96b7c66f025f62794d69c8a3)
